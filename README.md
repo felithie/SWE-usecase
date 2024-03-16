@@ -6,4 +6,6 @@ UC 1.03 (Alarm bei zu Hoher Herzfrequenz)
 Wird eine zu hohe Herzfrequenz festgestellt (über 180), wird ein Warnsignal abgegeben.
 
 ## Beteiligte Akteure
-Diagnostiker, Probandin 
+Diagnostiker: in, Probandin: in
+
+##
