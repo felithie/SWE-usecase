@@ -15,4 +15,4 @@ Ausstehend
 Anlegen Proband: in, Leistungstest anlegen
 
 ## Aulöser
-Sicherheit für Patient: innen (Überanstrengung, Vorbäugen von Nachfolgen)
+Sicherheit für Patient: innen (Überanstrengung, Vorbeugen von Nachfolgen)
