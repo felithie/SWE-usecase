@@ -26,4 +26,4 @@ Daten müssen stetig erhoben werden auch nach Arlam bei zu hoher Herzfrequenz, d
 
 ## Nachbedingung/ Ergebnis
 Wir erwarten einen Alarm durch zu hohe Herzfrequenz um somit die maximale Leistung des Probanden zu identifizieren.
-Die Anstrengungsbewertung soll anfallen (Use Case 1.06), Abbruch des Leistungstests(Use Case 1.07)
+Die Anstengung soll bewertet werden (Use Case 1.06), Abbruch des Leistungstests (Use Case 1.07)
