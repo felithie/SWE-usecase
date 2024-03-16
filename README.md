@@ -8,4 +8,5 @@ Wird eine zu hohe Herzfrequenz festgestellt (über 180), wird ein Warnsignal abg
 ## Beteiligte Akteure
 Diagnostiker: in, Probandin: in
 
-##
+## Status
+Ausstehen
