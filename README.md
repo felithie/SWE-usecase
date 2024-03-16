@@ -27,3 +27,15 @@ Daten müssen stetig erhoben werden auch nach Arlam bei zu hoher Herzfrequenz, d
 ## Nachbedingung/ Ergebnis
 Wir erwarten einen Alarm durch zu hohe Herzfrequenz um somit die maximale Leistung des Probanden zu identifizieren.
 Die Anstengung soll bewertet werden (Use Case 1.06), Abbruch des Leistungstests (Use Case 1.07)
+
+## Standard Ablauf
+Das es nicht zur Überanstrengung kommt und der gesammte Test ohne Abbruch durch Alarm durchgeführt werden kann. 
+
+## Alternative Ablaufschritte
+Der Leistungstest sagt dem Probanden langsamer zu treten und intensität raus zu nehmen.
+
+# Hinweise
+keine
+
+# Änderungsgeschichte
+0.01; Pauline Voigtsberger/ Felicitas Thierbach; 16.03.2024
