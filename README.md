@@ -32,7 +32,7 @@ Die Anstengung soll bewertet werden (Use Case 1.06), Abbruch des Leistungstests 
 Das es nicht zur Überanstrengung kommt und der gesammte Test ohne Abbruch durch Alarm durchgeführt werden kann. 
 
 ## Alternative Ablaufschritte
-Der Leistungstest sagt dem Probanden langsamer zu treten und intensität raus zu nehmen.
+Der Leistungstest sagt dem Probanden langsamer zu treten und Intensität zu verringern.
 
 # Hinweise
 keine
